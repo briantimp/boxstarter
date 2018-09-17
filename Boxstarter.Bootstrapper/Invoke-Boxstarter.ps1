@@ -51,8 +51,14 @@ automatic logins in the event a restart is required.
 
 .LINK
 https://boxstarter.org
+
+.LINK
 about_boxstarter_variable_in_bootstrapper
+
+.LINK
 about_boxstarter_bootstrapper
+
+.LINK
 Invoke-Reboot
 #>
     [CmdletBinding()]
