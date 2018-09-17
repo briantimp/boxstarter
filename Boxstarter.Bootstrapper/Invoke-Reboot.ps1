@@ -22,9 +22,17 @@ parameter $Boxstarter.RebootOk is set to True.
 
 .LINK
 https://boxstarter.org
-Test-PendingReeboot
+
+.LINK
+Test-PendingReboot
+
+.LINK
 Invoke-Boxstarter
+
+.LINK
 about_boxstarter_bootstrapper
+
+.LINK
 about_boxstarter_variable_in_bootstrapper
 #>
     if(!$Boxstarter.RebootOk) {
